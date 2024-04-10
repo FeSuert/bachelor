@@ -23,3 +23,5 @@ contract Hash {
         balances[hash] = msg.value;
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/Hash-collisions.sol

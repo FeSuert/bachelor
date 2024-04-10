@@ -167,3 +167,5 @@ contract InsecureMoonDAOVote is ReentrancyGuard {
         return candidates[_candidateID];
     }
 }
+
+//Source: https://medium.com/valixconsulting/solidity-security-by-example-13-double-spending-2-609ba4402aca

@@ -12,3 +12,5 @@ contract ownerGame {
         owner = _new;
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/Visibility.sol

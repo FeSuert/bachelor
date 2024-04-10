@@ -48,3 +48,5 @@ contract VContract {
         return reward;
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/ReadOnlyReentrancy.sol

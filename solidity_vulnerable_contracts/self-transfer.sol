@@ -18,3 +18,5 @@ contract SimpleBank {
         }
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/self-transfer.sol

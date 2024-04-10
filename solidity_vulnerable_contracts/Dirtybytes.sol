@@ -15,3 +15,5 @@ contract Bytes {
         return s;
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/Dirtybytes.sol

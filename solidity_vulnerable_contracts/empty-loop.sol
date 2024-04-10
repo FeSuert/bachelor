@@ -28,3 +28,5 @@ contract SimpleBank {
 
     receive() external payable {}
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/empty-loop.sol

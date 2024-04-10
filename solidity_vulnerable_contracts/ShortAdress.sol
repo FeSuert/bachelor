@@ -20,3 +20,5 @@
          return balances[addr];
      }
  }
+
+//Source: https://github.com/smartbugs/smartbugs-curated/tree/main/dataset/short_addresses

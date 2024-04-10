@@ -60,3 +60,5 @@ contract BanksLP is ERC20, Ownable {
         _mint(to, amount);
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/Incorrect_sanity_checks.sol

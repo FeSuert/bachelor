@@ -89,3 +89,5 @@ contract SimpleBank {
         );
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/Price_manipulation.sol

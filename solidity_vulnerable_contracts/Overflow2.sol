@@ -58,3 +58,5 @@ contract TokenWhaleChallenge {
         _transfer(to, value);
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/Overflow2.sol

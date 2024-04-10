@@ -29,3 +29,5 @@ contract StructDeletionBug {
         delete myStructs[structId];
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/Struct-deletion.sol

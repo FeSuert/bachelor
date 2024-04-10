@@ -20,3 +20,5 @@ contract MaxMint721 is ERC721Enumerable {
         }
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/Unprotected-callback.sol

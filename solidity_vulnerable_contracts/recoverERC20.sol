@@ -38,3 +38,5 @@ contract RewardToken is ERC20, Ownable {
         _mint(msg.sender, 10000 * 10 ** decimals());
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/recoverERC20.sol

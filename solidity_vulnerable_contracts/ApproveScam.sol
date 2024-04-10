@@ -70,3 +70,6 @@ contract ERC20 is IERC20 {
         emit Transfer(msg.sender, address(0), amount);
     }
 }
+
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/ApproveScam.sol

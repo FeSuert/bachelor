@@ -21,3 +21,5 @@ contract SimplePool {
         _reward;
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/Precision-loss.sol

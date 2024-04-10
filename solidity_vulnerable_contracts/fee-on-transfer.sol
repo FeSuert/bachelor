@@ -95,3 +95,5 @@ contract Vault {
         return balances[account];
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/fee-on-transfer.sol

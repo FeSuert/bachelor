@@ -29,3 +29,5 @@ contract Vault {
         return bytes32(a);
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/Privatedata.sol

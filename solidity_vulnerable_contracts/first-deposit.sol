@@ -66,3 +66,5 @@ contract SimplePool {
         require(loanToken.transfer(msg.sender, tokenAmount), "Transfer failed");
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/first-deposit.sol

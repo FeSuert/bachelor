@@ -28,3 +28,5 @@ contract ArrayDeletion2 {
         return myArray.length;
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/Array-deletion.sol

@@ -22,3 +22,5 @@ contract Delegate {
         owner = msg.sender;
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/Delegatecall.sol

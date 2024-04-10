@@ -17,3 +17,5 @@ contract Calculation2 {
         return (price * discount) / 100;
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/Divmultiply.sol

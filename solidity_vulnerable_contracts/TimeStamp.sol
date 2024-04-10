@@ -21,3 +21,5 @@ contract Timestamp {
         return block.timestamp >= lastUpdateTime + 1 minutes;
     }
 }
+
+//Source: https://github.com/kadenzipfel/smart-contract-vulnerabilities/blob/master/vulnerabilities/timestamp-dependence.md

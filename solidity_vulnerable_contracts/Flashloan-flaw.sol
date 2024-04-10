@@ -81,3 +81,5 @@ contract LendingPool {
         require(balanceAfter >= balanceBefore, "Flashloan not repaid");
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/Flashloan-flaw.sol

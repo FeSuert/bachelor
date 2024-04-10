@@ -23,3 +23,5 @@ contract EtherGame {
         require(sent, "Failed to send Ether");
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/Selfdestruct.sol

@@ -26,3 +26,5 @@ contract InsecureEtherVault {
         return userBalances[_user];
     }
 }
+
+//Source: https://secureblock.io/blog/what-is-a-reentrancy-attack-in-solidity-smart-contract-with-examples

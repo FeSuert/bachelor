@@ -18,3 +18,5 @@ contract SimpleBank {
         payable(msg.sender).transfer(amount);
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/payable-transfer.sol

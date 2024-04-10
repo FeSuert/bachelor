@@ -27,3 +27,5 @@ contract Logic {
         GuestAddress = _addr;
     }
 }
+
+//Source: https://github.com/SunWeb3Sec/DeFiVulnLabs/blob/main/src/test/Storage-collision.sol
